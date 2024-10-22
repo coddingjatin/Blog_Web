@@ -4,7 +4,6 @@
 ## 🌟 Features
 
 - 🖊️ **Create & Edit** your personal blog posts
-- 🔑 **JWT Authentication** for secure login
 - 🗂️ **Categorize** posts for easy navigation
 - 💬 **Comment** and engage with other users
 - 🔍 **Search** to quickly find posts
@@ -13,8 +12,7 @@
 
 - **Frontend**: React
 - **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Authentication**: JWT
+- **Appwrite**: Cloud Services
 
 ## 🚀 Getting Started
 
