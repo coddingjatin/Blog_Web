@@ -1,10 +1,6 @@
-# 📝 MegaBlog
+# 📝 Jatin_Blog
 
-**MegaBlog** is a dynamic, responsive platform for sharing your thoughts and ideas. Built with **React** and **Node.js**, it allows users to write, manage, and comment on blog posts effortlessly.
-
-- 🔗 **Check out the project:** [MegaBlog GitHub Repository](https://github.com/anuj123upadhyay/MegaBlog)
-- 🌐 **Live Website**: [MegaBlog Live](mega-blog-8587.vercel.app/)
-
+**Jatin_Blog** is a dynamic, responsive platform for sharing your thoughts and ideas. Built with **React** and **Node.js**, it allows users to write, manage, and comment on blog posts effortlessly.
 ## 🌟 Features
 
 - 🖊️ **Create & Edit** your personal blog posts
@@ -24,7 +20,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/anuj123upadhyay/MegaBlog.git
+git clone https://github.com/coddingjatin/Blog_Web.git
 ```
 
 2. Install dependencies:
@@ -44,17 +40,5 @@ cd ../backend && npm run dev
 ```
 
 5. Visit `http://localhost:3000` to explore!
-
-## 🤝 Contributing
-Want to contribute? Follow these steps:
-
-1. Fork the repo
-2. Create a branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m 'Add a new feature'`)
-4. Push to your branch (`git push origin feature-branch`)
-5. Open a Pull Request
-
-## 📜 License
-This project is licensed under the MIT License.
 
 ### ⭐ Like this project? Star it on GitHub to show your support!
